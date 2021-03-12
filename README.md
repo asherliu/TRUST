@@ -1,5 +1,5 @@
 # TRUST
-This is the code for TRUST: Triangle Counting Reloaded on GPUs.
+This is the code for a TPDS paper - TRUST: Triangle Counting Reloaded on GPUs [[PDF]](https://personal.stevens.edu/~hliu77/docs/tpds21.pdf)
 
 ## download
 You can download the Zip file from 
@@ -99,3 +99,25 @@ The output arguments is
 4. triangle counts
 5. min times
 6. max times
+
+----
+Reference
+----
+
+```
+@ARTICLE {9373989,
+author = {S. Pandey and Z. Wang and S. Zhong and C. Tian and B. Zheng and X. Li and L. Li and A. Hoisie and C. Ding and D. Li and H. Liu},
+journal = {IEEE Transactions on Parallel & Distributed Systems},
+title = {TRUST: Triangle Counting Reloaded on GPUs},
+year = {5555},
+volume = {},
+number = {01},
+issn = {1558-2183},
+pages = {1-1},
+keywords = {graphics processing units;two dimensional displays;partitioning algorithms;message systems;instruction sets;arrays;time complexity},
+doi = {10.1109/TPDS.2021.3064892},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {mar}
+}
+```
